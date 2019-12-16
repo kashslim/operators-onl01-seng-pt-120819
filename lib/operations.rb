@@ -7,7 +7,7 @@ else
 end
 
 def not_safe?(speed)
-30 mph
+  
 	
 end
 	
